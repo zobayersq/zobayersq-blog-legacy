@@ -6,7 +6,7 @@ draft = true
 ### Hey!:
 - 👋 Hi, I’m Zobayer Hasan ( @zobayersq ).  A CSE sudent aspiring to be a cyber security professional. Aside from academics,  I play CTFs and  read novels.
 You might also find me at random linux community telling people why Arch Linux + KDE Plasma is the best combination 😜.
-- 📫 You can reach me at -> <zobayer@solus.quest>
+- 📫 You can reach me at -> <zobayer@duck.com>
 
 ### Cool Badges:
 - <img src="https://tryhackme-badges.s3.amazonaws.com/zobayersq.png" alt="TryHackMe">
